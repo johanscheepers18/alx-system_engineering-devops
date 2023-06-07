@@ -6,3 +6,4 @@ The 4-listmorefiles script is used to display all the files in the directory, in
 The 5-listfilesdigitonly script is used to diplay files user and group IDS numerically as well as long format.
 The 6-firstdirectory script is used to create a directory named "my_first_directory" located in tmp.
 The 7-movethatfile script is used to move the file "betty" located in /tmp to /tmp/my_first_directory.
+The 8-firstdelete script is used to delete the file "betty" located in tmp/my_first_directory.
