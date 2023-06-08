@@ -12,3 +12,4 @@ The 10-back script take you back to the previos directory.
 The 11-lists script is used to display files in the current directory, the parent directory as well as the /boot.
 The 12-file_type script is used to print the file type of iamafile located in /tmp.
 The 13-symbolic_link script is used to create a symbolic link of /bin/ls, named __ls__ in the current directory.
+The 14-copy_html is used to copy all html fils to the parent directory if it doesn't exist in the parent directory.
