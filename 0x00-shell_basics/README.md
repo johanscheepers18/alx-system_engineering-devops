@@ -1,5 +1,5 @@
-MANDATORY
-======================================================================================================
+**MANDATORY
+
 The 0-current_working_directory script is used to print the absolute current working directory.
 The 1-listit script is used to display all the files in the current directory.
 The 2-bring_me_home script is used to take the user to their home directory.
@@ -15,7 +15,8 @@ The 11-lists script is used to display files in the current directory, the paren
 The 12-file_type script is used to print the file type of iamafile located in /tmp.
 The 13-symbolic_link script is used to create a symbolic link of /bin/ls, named __ls__ in the current directory.
 The 14-copy_html is used to copy all html fils to the parent directory if it doesn't exist in the parent directory.
-=====================================================================================================
-ADVANCED:
-=====================================================================================================
+
+**ADVANCED:
+
 The 100-lets_move script moves all files starting with UPPERCASE letter to /tmp/u.
+The 101-clean_emacs script deletes all files ending with "~" (Emacs files).
