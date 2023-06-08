@@ -10,3 +10,4 @@ The 8-firstdelete script is used to delete the file "betty" located in tmp/my_fi
 THe 9-firstdeletion script is used to delete the "my_first_directory" located in tmp.
 The 10-back script take you back to the previos directory.
 The 11-lists script is used to display files in the current directory, the parent directory as well as the /boot.
+The 12-file_type script is used to print the file type of iamafile located in /tmp.
