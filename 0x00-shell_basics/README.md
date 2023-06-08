@@ -21,3 +21,4 @@ The 14-copy_html is used to copy all html fils to the parent directory if it doe
 The 100-lets_move script moves all files starting with UPPERCASE letter to /tmp/u.
 The 101-clean_emacs script deletes all files ending with "~" (Emacs files).
 The 102-tree script creates the directory welcome/to/school in one go.
+The 103-commas list all the files an directories(with a trailing forward slash "/"), seperated by commas.
