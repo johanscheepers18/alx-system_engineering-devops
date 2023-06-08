@@ -8,3 +8,4 @@ The 6-firstdirectory script is used to create a directory named "my_first_direct
 The 7-movethatfile script is used to move the file "betty" located in /tmp to /tmp/my_first_directory.
 The 8-firstdelete script is used to delete the file "betty" located in tmp/my_first_directory.
 THe 9-firstdeletion script is used to delete the "my_first_directory" located in tmp.
+The 10-back script take you back to the previos directory.
