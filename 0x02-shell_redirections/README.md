@@ -26,4 +26,7 @@ MANDATORY<br>
 <hr>
 ADVANCED<br>
 <hr>
-
+100-empty_casks: This script is used to display all empty files and directories in the current working dir as well as all the sub-dir<br>
+101-gifs: This script is used to print out all the gif extension filenames located in the current working dir as well as all the sub-dir<br>
+102-acrostic: Is used to print all the first characters of each line into a string making a new word.<br>
+103-the_biggest_fan: This script is used to find the top 10 hosts or IP addresses that connected the most times to the NASA Website ine 1995<br>
