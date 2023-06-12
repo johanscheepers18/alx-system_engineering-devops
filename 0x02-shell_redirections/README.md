@@ -6,7 +6,7 @@ MANDATORY<br>
 3-twofiles: is used to diplay the content of both passwd and hosts file located in /etc/<br>
 4-lastlines: is used to diplay the last 10 lines of passwd<br>
 5-firstlines: is used to diplay the first 10 lines of the passwd file<br>
-6-third_libe: is used to dipla ythe third line of a file called "iacta", without using the sed command<br>
+6-third_libe: is used to diplay the third line of a file called "iacta", without using the sed command<br>
 7-file: creates a file named "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)", with the content of "Best School"<br>
 8-cwd_state: is used to write the contents of the current working directory in a file called ls_cwd_content<br>
 9-duplicate_last_line: Duplicates the last line of a file called iacta<br>
